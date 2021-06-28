@@ -1,0 +1,74 @@
+{
+    "PlayerList": [
+        {
+            "Name": "bop",
+            "PlayerValue": {
+                "Score": 141.0,
+                "MissCount": 29.0
+            }
+        },
+        {
+            "Name": "werteetreki",
+            "PlayerValue": {
+                "Score": 117.0,
+                "MissCount": 26.0
+            }
+        },
+        {
+            "Name": "qwerty",
+            "PlayerValue": {
+                "Score": 62.0,
+                "MissCount": 35.0
+            }
+        },
+        {
+            "Name": "testcdnze",
+            "PlayerValue": {
+                "Score": 55.0,
+                "MissCount": 4.0
+            }
+        },
+        {
+            "Name": "testname",
+            "PlayerValue": {
+                "Score": 21.0,
+                "MissCount": 40.0
+            }
+        },
+        {
+            "Name": "test10",
+            "PlayerValue": {
+                "Score": 15.0,
+                "MissCount": 11.0
+            }
+        },
+        {
+            "Name": "qwertyuiop",
+            "PlayerValue": {
+                "Score": 15.0,
+                "MissCount": 30.0
+            }
+        },
+        {
+            "Name": "test9",
+            "PlayerValue": {
+                "Score": 14.0,
+                "MissCount": 12.0
+            }
+        },
+        {
+            "Name": "test8",
+            "PlayerValue": {
+                "Score": 13.0,
+                "MissCount": 12.0
+            }
+        },
+        {
+            "Name": "test7",
+            "PlayerValue": {
+                "Score": 12.0,
+                "MissCount": 13.0
+            }
+        }
+    ]
+}
